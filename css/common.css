@@ -65,7 +65,6 @@ button {
   text-align: center;
 }
 
-.visually-hidden,
 .sr-only {
   position: absolute;
   white-space: nowrap;

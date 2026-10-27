@@ -10,6 +10,7 @@
 .team-item {
   width: calc((100% - 72px) / 4);
   overflow: hidden;
+  border-radius: 0 0 4px 4px;
   background-color: #ffffff;
 }
 
